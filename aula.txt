@@ -1,1 +1,4 @@
 Olá mundo, bem-vindo ao GIT
+A ***** é uma **** burra!
+
+Lalisa é a maior de todas elas!
